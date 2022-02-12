@@ -3,8 +3,8 @@ html{font-family: Arial, Helvetica, sans-serif;
 }
 .card{width: 300px;
       padding: 15px;
-      border:1px solid ridge ;
-      box-shadow: 10px 10px 5px rgba(119,101,100,0.3);
+      border:1px solid rgb(80%,80%,80%);
+      box-shadow: 5px 5px  rgb(105,101,100,0.4);
 
 }
 .name{font-weight: bold;
@@ -13,17 +13,19 @@ html{font-family: Arial, Helvetica, sans-serif;
 .pics{width: 300px;
 
 }
-.card-description{margin: 0px;
+.card-description{margin-top: 10px;
                   padding: 10px;
-                  border: 1px solid ridge;
+                  border: 1px solid rgb(80%,80%,80%);
+                  
 
 }
 .fact{font-style: italic;
 
 }
-.item{list-style: none;
+.list{list-style: none;
       padding-left: 0px;
 
+
 }
-.list{font-weight: bold;sss
+.list-item{font-weight: bold;
 }
