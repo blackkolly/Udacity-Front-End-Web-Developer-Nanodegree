@@ -1,1 +1,29 @@
-/* add your CSS here */
+html{font-family: Arial, Helvetica, sans-serif;
+
+}
+.card{width: 300px;
+      padding: 15px;
+      border:1px solid ridge ;
+      box-shadow: 10px 10px 5px rgba(119,101,100,0.3);
+
+}
+.name{font-weight: bold;
+
+}
+.pics{width: 300px;
+
+}
+.card-description{margin: 0px;
+                  padding: 10px;
+                  border: 1px solid ridge;
+
+}
+.fact{font-style: italic;
+
+}
+.item{list-style: none;
+      padding-left: 0px;
+
+}
+.list{font-weight: bold;sss
+}
